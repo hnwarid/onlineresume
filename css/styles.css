@@ -1,0 +1,65 @@
+.profile-photo{
+    max-width:160px;
+}
+body {
+    font-family: roboto, sans-serif;
+  }
+.cert-image{
+    max-width: 90px;
+    float:left;
+    margin-right: 10px;
+}
+.cert-date{
+    margin-top: 10px;
+}
+.certification{
+    line-height:1.2;
+}
+.main-name{
+    font-size: 28px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+#resume{
+    max-width: 800px;
+}
+#summary p{
+    margin-bottom: 0px;
+}
+.article-section{
+    padding: 2;
+}
+.section-title{
+    font-size: 20px;
+}
+.content-row h5{
+    font-size: 18px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+
+}
+.content-row p{
+    line-height: 1.0;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+a{
+    color: black; 
+  &:hover {
+    color: blue;
+  }
+}
+.repo-link{
+    line-height:1.2;
+    font-size: 0.8em;
+    margin-bottom: 4px;
+}
+.education-date{
+    line-height:1.2;
+    font-size: 0.8em;
+    margin-bottom: 4px;
+}
+.interests{
+    font-size:0.90em;
+}
